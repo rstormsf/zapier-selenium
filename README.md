@@ -4,7 +4,9 @@ Break 15 min wait in Zapier
 #Install
 on Mac OSX:
 `brew install selenium-server-standalone`
-run 
+
+run
+
 `selenium-server -p 4444` - leave it open in the terminal
 
 open another terminal window:
