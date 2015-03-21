@@ -1,5 +1,5 @@
 # zapier-selenium
-Break 15 min wait in Zapier
+Break 15 min wait in Zapier.
 
 #Install
 on Mac OSX:
